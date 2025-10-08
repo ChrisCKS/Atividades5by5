@@ -19,3 +19,5 @@ else
 {
     Console.WriteLine("Reprovado");
 }
+
+Console.WriteLine("Pressione qualquer tecla");
